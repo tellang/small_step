@@ -1,14 +1,11 @@
 package Back_Tracking.N15663;
 
-import static java.lang.Integer.MAX_VALUE;
 import static java.lang.Integer.MIN_VALUE;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -19,7 +16,6 @@ public class Main {
     static int[] order;
     static int[] arr;
     static boolean[] visited;
-    static Set<String> set = new HashSet<>();
     static StringBuilder result = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
@@ -35,33 +31,30 @@ public class Main {
             arr[i] = Integer.parseInt(st.nextToken());
         }
         Arrays.sort(arr);
-        combination(0, 0);
+        combination(0);
         System.out.println(result);
     }
 
-    private static void combination(int idx, int count) {
+    private static void combination(int count) {
         if (count == M) {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < M; i++) {
                 sb.append(order[i]).append(' ');
             }
-            if (!set.contains(sb.toString())) {
-                result.append(sb).append('\n');
-                set.add(sb.toString());
-            }
+            result.append(sb).append('\n');
             return;
         }
 
+        int before = -1;
         for (int i = 1; i <= N; i++) {
-            if (!visited[i]) {
+            if (!visited[i] && (before != arr[i])) {
 
                 visited[i] = true;
-                int before = order[count];
                 order[count] = arr[i];
-                combination(i + 1, count + 1);
+                before = order[count];
+                combination(count + 1);
 
                 visited[i] = false;
-                order[count] = before;
 
             }
         }
