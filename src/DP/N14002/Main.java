@@ -7,6 +7,7 @@ import static java.util.Collections.binarySearch;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
@@ -18,6 +19,7 @@ public class Main {
     static List<Integer> list = new ArrayList<>(),
         originalLIS = new ArrayList<>(),
         dp = new ArrayList<>();
+    static ArrayDeque<Integer> dq = new ArrayDeque<>();
     static StringTokenizer st;
     static StringBuilder sb = new StringBuilder();
 
@@ -40,10 +42,14 @@ public class Main {
         for (int oriIdx = dp.size() - 1; oriIdx >= 0 && localMax >= 0; oriIdx--) {
             int dpIdx = dp.get(oriIdx) - 1;
             if (dpIdx == localMax) {
-                sb.insert(2, originalLIS.get(oriIdx)).insert(2, ' ');
+                dq.offerFirst(originalLIS.get(oriIdx));
                 localMax--;
             }
         }
+        while (!dq.isEmpty()) {
+            sb.append(dq.poll()).append(' ');
+        }
+        sb.deleteCharAt(sb.length() - 1);
         System.out.println(sb);
     }
 
