@@ -2,7 +2,6 @@ package DP.N12783;
 
 import static java.lang.Integer.max;
 import static java.lang.Integer.parseInt;
-import static java.lang.Long.parseLong;
 import static java.util.Collections.*;
 
 import java.io.BufferedReader;
@@ -16,13 +15,12 @@ public class Main {
 
     final static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int N, MAX;
-    static List<Integer> dp = new ArrayList<>();
-    static List<Long> list = new ArrayList<>();
+    static List<Integer> dp = new ArrayList<>(), list = new ArrayList<>();
     static StringTokenizer st;
     public static void main(String[] args) throws IOException {
         N = parseInt(br.readLine());
         st = new StringTokenizer(br.readLine());
-        list.add(parseLong(st.nextToken()));
+        list.add(parseInt(st.nextToken()));
         dp.add(1);
         MAX = 1;
         for (int i = 1; i < N; i++) {
@@ -34,7 +32,7 @@ public class Main {
         System.out.println(MAX);
     }
 
-    private static int getOrderSize(long num) {
+    private static int getOrderSize(int num) {
         if (list.get(list.size() - 1) < num){
             list.add(num);
             return list.size();
