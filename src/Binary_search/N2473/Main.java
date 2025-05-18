@@ -1,4 +1,4 @@
-package BinarySearch.N2473;
+package Binary_search.N2473;
 
 /*
 int 끼리 덧셈하면 long 으로 받아도 int 연산후 들어간다

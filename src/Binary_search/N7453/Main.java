@@ -1,4 +1,4 @@
-package BinarySearch.N7453;
+package Binary_search.N7453;
 
 import java.io.BufferedReader;
 import java.io.IOException;

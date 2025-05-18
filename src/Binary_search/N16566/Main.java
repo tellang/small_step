@@ -1,4 +1,4 @@
-package BinarySearch.N16566;
+package Binary_search.N16566;
 
 import static java.lang.Integer.*;
 
