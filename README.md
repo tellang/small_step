@@ -61,14 +61,14 @@
 | 1516 | | Java | | | `src/DP/N1516/Main.java` | [Link](https://www.acmicpc.net/problem/1516) |
 | 1520 | | Java | | | `src/DFS/N1520/Main.java` | [Link](https://www.acmicpc.net/problem/1520) |
 | 15486 | | Java | | | `src/DP/N15486/Main.java` | [Link](https://www.acmicpc.net/problem/15486) |
-| 15591 | | Java | | | `src/BFS/N15591/Main.java` | [Link](https://www.acmicpc.net/problem/15591) |
+| 15591 | MooTube (Silver) | Java | Graph, BFS, DFS | `src/BFS/N15591/Main.java` | [Link](https://www.acmicpc.net/problem/15591) |
 | 15649 | | Java | | | `src/SSAFY/N15649/Main.java` | [Link](https://www.acmicpc.net/problem/15649) |
 | 15650 | | Java | | | `src/SSAFY/N15650/Main.java` | [Link](https://www.acmicpc.net/problem/15650) |
-| 15651 | | Java | | | `src/Back_Tracking/N15651/Main.java` | [Link](https://www.acmicpc.net/problem/15651) |
-| 15652 | | Java | | | `src/Back_Tracking/N15652/Main.java` | [Link](https://www.acmicpc.net/problem/15652) |
-| 15663 | | Java | | | `src/Back_Tracking/N15663/Main.java` | [Link](https://www.acmicpc.net/problem/15663) |
+| 15651 | N과 M (3) | Java | Backtracking, Recursion | `src/Back_Tracking/N15651/Main.java` | [Link](https://www.acmicpc.net/problem/15651) |
+| 15652 | N과 M (4) | Java | Backtracking, Recursion | `src/Back_Tracking/N15652/Main.java` | [Link](https://www.acmicpc.net/problem/15652) |
+| 15663 | N과 M (9) | Java | Backtracking, DFS | `src/Back_Tracking/N15663/Main.java` | [Link](https://www.acmicpc.net/problem/15663) |
 | 15681 | | Java | | | `src/DP/N15681/Main.java` | [Link](https://www.acmicpc.net/problem/15681) |
-| 15683 | | Java | | | `src/Back_Tracking/N15683/Main.java` | [Link](https://www.acmicpc.net/problem/15683) |
+| 15683 | 감시 | Java | Brute-Force, DFS, Simulation | `src/Back_Tracking/N15683/Main.java` | [Link](https://www.acmicpc.net/problem/15683) |
 | 15685 | | Java | | | `src/Implementation/N15685/Main.java` | [Link](https://www.acmicpc.net/problem/15685) |
 | 15708 | | Java | | | `src/Greedy/N15708/Main.java` | [Link](https://www.acmicpc.net/problem/15708) |
 | 15961 | | Java | | | `src/SSAFY/N15961/Main.java` | [Link](https://www.acmicpc.net/problem/15961) |
@@ -76,10 +76,10 @@
 | 1600 | | Java | | | `src/SSAFY/N1600/Main.java` | [Link](https://www.acmicpc.net/problem/1600) |
 | 16202 | | Java | | | `src/MST/N16202/Main.java` | [Link](https://www.acmicpc.net/problem/16202) |
 | 16234 | | Java | | | `src/Implementation/N16234/Main.java` | [Link](https://www.acmicpc.net/problem/16234) |
-| 16236 | | Java | | | `src/BFS/N16236/Main.java` | [Link](https://www.acmicpc.net/problem/16236) |
+| 16236 | 아기 상어 | Java | BFS, Simulation | `src/BFS/N16236/Main.java` | [Link](https://www.acmicpc.net/problem/16236) |
 | 1647 | | Java | | | `src/MST/N1647/Main.java` | [Link](https://www.acmicpc.net/problem/1647) |
 | 16566 | | Java | | | `src/Binary_search/N16566/Main.java` | [Link](https://www.acmicpc.net/problem/16566) |
-| 16920 | | Java | | | `src/BFS/N16920/Main.java` | [Link](https://www.acmicpc.net/problem/16920) |
+| 16920 | 확장 게임 | Java | Graph, BFS | `src/BFS/N16920/Main.java` | [Link](https://www.acmicpc.net/problem/16920) |
 | 16927 | | Java | | | `src/Implementation/N16927/Main.java` | [Link](https://www.acmicpc.net/problem/16927) |
 | 16930 | | Java | | | `src/SSAFY/N16930/Main.java` | [Link](https://www.acmicpc.net/problem/16930) |
 | 16934 | | Java | | | `src/Data_structures/N16934/Main.java` | [Link](https://www.acmicpc.net/problem/16934) |
@@ -112,7 +112,7 @@
 | 21738 | | Java | | | `src/IDMK/W3/N21738/Main.java` | [Link](https://www.acmicpc.net/problem/21738) |
 | 2174 | | Java | | | `src/BFS/N2174/Main.java` | [Link](https://www.acmicpc.net/problem/2174) |
 | 2225 | | Java | | | `src/DP/N2225/Main.java` | [Link](https://www.acmicpc.net/problem/2225) |
-| 2239 | | Java | | | `src/Back_Tracking/N2239/Main.java` | [Link](https://www.acmicpc.net/problem/2239) |
+| 2239 | 스도쿠 | Java | Backtracking, DFS | `src/Back_Tracking/N2239/Main.java` | [Link](https://www.acmicpc.net/problem/2239) |
 | 2252 | | Java | | | `src/SSAFY/N2252/Main.java` | [Link](https://www.acmicpc.net/problem/2252) |
 | 23352 | | Java | | | `src/BFS/N23352/Main.java` | [Link](https://www.acmicpc.net/problem/23352) |
 | 2342 | | Java | | | `src/DP/N2342/Main.java` | [Link](https://www.acmicpc.net/problem/2342) |
@@ -124,7 +124,7 @@
 | 25542 | | Java | | | `src/IDMK/W4/N25542/Main.java` | [Link](https://www.acmicpc.net/problem/25542) |
 | 2568 | | Java | | | `src/DP/N2568/Main.java` | [Link](https://www.acmicpc.net/problem/2568) |
 | 2573 | | Java | | | `src/DFS/N2573/Main.java` | [Link](https://www.acmicpc.net/problem/2573) |
-| 2580 | | Java | | | `src/Back_Tracking/N2580/Main.java` | [Link](https://www.acmicpc.net/problem/2580) |
+| 2580 | 스도쿠 | Java | Backtracking, DFS | `src/Back_Tracking/N2580/Main.java` | [Link](https://www.acmicpc.net/problem/2580) |
 | 2606 | | Java | | | `src/SSAFY/N2606/Main.java` | [Link](https://www.acmicpc.net/problem/2606) |
 | 2631 | | Java | | | `src/DP/N2631/Main.java` | [Link](https://www.acmicpc.net/problem/2631) |
 | 2636 | | Java | | | `src/Implementation/N2636/Main.java` | [Link](https://www.acmicpc.net/problem/2636) |
@@ -171,7 +171,7 @@
 | 1953 | | Java | | | `src/SSAFY/N1953/Solution.java` | |
 | 1959 | | Java | | | `src/SWEA/N1959/Solution.java` | |
 | 2001 | | Java | | | `src/SWEA/N2001/Solution.java` | |
-| 2383 | | Java | | | `src/SSAFY/N2383/Solution.java` | |
+| 2383 | [모의 SW 역량테스트] 점심 식사시간 | Java | Simulation, Brute-force | `src/SSAFY/N2383/Solution.java` | [Link](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-B_a6ABEVDVAl) |
 | 2805 | | Java | | | `src/SSAFY/N2805/Solution.java` | |
 | 2819 | | Java | | | `src/SSAFY/N2819/Solution.java` | |
 | 3282 | | Java | | | `src/SSAFY/N3282/Solution.java` | |
@@ -180,7 +180,7 @@
 | 4008 | | Java | | | `src/SSAFY/N4008/Solution.java` | |
 | 4012 | | Java | | | `src/SSAFY/Y2025/M08/D14/N4012/Solution.java` | |
 | 5215 | | Java | | | `src/SSAFY/N5215/Solution.java` | |
-| 5643 | | Java | | | `src/SSAFY/N5643/Solution.java` | |
+| 5643 | 키 순서 | Java | Graph, Floyd-Warshall, BFS, DFS | `src/SSAFY/N5643/Solution.java` | [Link](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm0j6rckDFAUg) |
 | 5644 | | Java | | | `src/SSAFY/N5644/Solution.java` | |
 | 5656 | | Java | | | `src/SSAFY/N5656/Solution.java` | |
 | 6782 | | Java | | | `src/SSAFY/Y2025/M08/D14/N6782/Solution.java` | |
