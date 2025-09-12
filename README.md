@@ -59,7 +59,7 @@
 | 14725 | | Java | | | `src/Data_structures/N14725/Main.java` | [Link](https://www.acmicpc.net/problem/14725) |
 | 14889 | | Java | | | `src/Back_Tracking/N14889/Main.java` | [Link](https://www.acmicpc.net/problem/14889) |
 | 1516 | | Java | | | `src/DP/N1516/Main.java` | [Link](https://www.acmicpc.net/problem/1516) |
-| 1520 | | Java | | | `src/DFS/N1520/Main.java` | [Link](https://www.acmicpc.net/problem/1520) |
+| 1520 | 내리막 길 | Java | DFS, Dynamic Programming, Graph Traversal, Memoization | `src/DFS/N1520/Main.java` | [Link](https://www.acmicpc.net/problem/1520) |
 | 15486 | | Java | | | `src/DP/N15486/Main.java` | [Link](https://www.acmicpc.net/problem/15486) |
 | 15591 | MooTube (Silver) | Java | Graph, BFS, DFS | `src/BFS/N15591/Main.java` | [Link](https://www.acmicpc.net/problem/15591) |
 | 15649 | | Java | | | `src/SSAFY/N15649/Main.java` | [Link](https://www.acmicpc.net/problem/15649) |
@@ -83,13 +83,13 @@
 | 16927 | | Java | | | `src/Implementation/N16927/Main.java` | [Link](https://www.acmicpc.net/problem/16927) |
 | 16930 | | Java | | | `src/SSAFY/N16930/Main.java` | [Link](https://www.acmicpc.net/problem/16930) |
 | 16934 | | Java | | | `src/Data_structures/N16934/Main.java` | [Link](https://www.acmicpc.net/problem/16934) |
-| 16946 | | Java | | | `src/DFS/N16946/Main.java` | [Link](https://www.acmicpc.net/problem/16946) |
+| 16946 | 벽 부수고 이동하기 4 | Java | BFS, DFS, Graph Traversal, Simulation, Connected Components | `src/DFS/N16946/Main.java` | [Link](https://www.acmicpc.net/problem/16946) |
 | 16974 | | Java | | | `src/IDMK/W3/N16974/Main.java` | [Link](https://www.acmicpc.net/problem/16974) |
-| 1707 | | Java | | | `src/DFS/N1707/Main.java` | [Link](https://www.acmicpc.net/problem/1707) |
+| 1707 | 이분 그래프 | Java | Graph Theory, BFS, DFS, Graph Traversal | `src/DFS/N1707/Main.java` | [Link](https://www.acmicpc.net/problem/1707) |
 | 17135 | | Java | | | `src/Brute_Force/N17135/Main.java` | [Link](https://www.acmicpc.net/problem/17135) |
 | 17144 | | Java | | | `src/Implementation/N17144/Main.java` | [Link](https://www.acmicpc.net/problem/17144) |
 | 1744 | | Java | | | `src/Sort/N1744/Main.java` | [Link](https://www.acmicpc.net/problem/1744) |
-| 17471 | | Java | | | `src/DFS/N17471/Main.java` | [Link](https://www.acmicpc.net/problem/17471) |
+| 17471 | 게리맨더링 | Java | Graph Theory, BFS, DFS, Combinatorics, Brute Force, Simulation | `src/DFS/N17471/Main.java` | [Link](https://www.acmicpc.net/problem/17471) |
 | 17472 | | Java | | | `src/MST/N17472/Main.java` | [Link](https://www.acmicpc.net/problem/17472) |
 | 1766 | | Java | | | `src/Queue/N1766/Main.java` | [Link](https://www.acmicpc.net/problem/1766) |
 | 17845 | | Java | | | `src/SSAFY/N17845/Main.java` | [Link](https://www.acmicpc.net/problem/17845) |
@@ -142,13 +142,13 @@
 | 4781 | | Java | | | `src/DP/N4781/Main.java` | [Link](https://www.acmicpc.net/problem/4781) |
 | 5719 | | Java | | | `src/Dijkstra/N5719/Main.java` | [Link](https://www.acmicpc.net/problem/5719) |
 | 6137 | | Java | | | `src/String/N6137/Main.java` | [Link](https://www.acmicpc.net/problem/6137) |
-| 7432 | | Java | | | `src/Data_structures/N7432/Main.java` | [Link](https://www.acmicpc.net/problem/7432) |
+| 7432 | 디스크 트리 | Java | Trie, Data Structures, Tree, DFS, Sorting | `src/Data_structures/N7432/Main.java` | [Link](https://www.acmicpc.net/problem/7432) |
 | 7453 | | Java | | | `src/Binary_search/N7453/Main.java` | [Link](https://www.acmicpc.net/problem/7453) |
 | 7576 | | Java | | | `src/BFS/N7576/Main.java` | [Link](https://www.acmicpc.net/problem/7576) |
 | 7579 | | Java | | | `src/DP/N7579/Main.java` | [Link](https://www.acmicpc.net/problem/7579) |
 | 9024 | | Java | | | `src/Two_Pointer/N9024/Main.java` | [Link](https://www.acmicpc.net/problem/9024) |
 | 9084 | | Java | | | `src/SSAFY/N9084/Main.java` | [Link](https://www.acmicpc.net/problem/9084) |
-| 9202 | | Java | | | `src/Data_structures/N9202/Main.java` | [Link](https://www.acmicpc.net/problem/9202) |
+| 9202 | Boggle | Java | Trie, DFS, Backtracking, Data Structures, Graph Traversal, Simulation | `src/Data_structures/N9202/Main.java` | [Link](https://www.acmicpc.net/problem/9202) |
 | 9203 | | Java | | | `src/String/N9203/Main.java` | [Link](https://www.acmicpc.net/problem/9203) |
 | 9205 | | Java | | | `src/IDMK/W4/N9205/Main.java` | [Link](https://www.acmicpc.net/problem/9205) |
 | 9519 | | Java | | | `src/Implementation/N9519/Main.java` | [Link](https://www.acmicpc.net/problem/9519) |
@@ -198,8 +198,8 @@
 | 이중우선순위큐 | | Java | | | `src/sparta/이중우선순위큐/Solution.java` |
 | 피보나치_수 | | Java | | | `src/sparta/피보나치_수/Solution.java` |
 | 같은종류끼리_모으기 | | Java | | | `src/codetree/같은종류끼리_모으기/Main.java` |
-| 등산로와_쉼터 | | Java | | | `src/codetree/등산로와_쉼터/Main.java` |
-| k에_가장_가까운_합 | | Java | | | `src/codetree/k에_가장_가까운_합/Main.java` |
+| 등산로와_쉼터 | 등산로와 쉼터 | Java | Graph, BFS, DFS, Simulation | `src/codetree/등산로와_쉼터/Main.java` |
+| k에_가장_가까운_합 | k에 가장 가까운 합 | Java | Prefix Sums, Binary Search, Two Pointers, Data Structures, Algorithms | `src/codetree/k에_가장_가까운_합/Main.java` |
 
 ---
 
